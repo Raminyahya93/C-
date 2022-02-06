@@ -1,0 +1,7 @@
+I:\c#learning\tedad ghaboli\bin\Debug\tedad ghaboli.exe.config
+I:\c#learning\tedad ghaboli\bin\Debug\tedad ghaboli.exe
+I:\c#learning\tedad ghaboli\bin\Debug\tedad ghaboli.pdb
+I:\c#learning\tedad ghaboli\obj\Debug\tedad ghaboli.csproj.SuggestedBindingRedirects.cache
+I:\c#learning\tedad ghaboli\obj\Debug\tedad ghaboli.csproj.CoreCompileInputs.cache
+I:\c#learning\tedad ghaboli\obj\Debug\tedad ghaboli.exe
+I:\c#learning\tedad ghaboli\obj\Debug\tedad ghaboli.pdb
