@@ -1,0 +1,8 @@
+E:\c#learning\irankhodro\bin\Debug\irankhodro.exe.config
+E:\c#learning\irankhodro\bin\Debug\irankhodro.exe
+E:\c#learning\irankhodro\bin\Debug\irankhodro.pdb
+E:\c#learning\irankhodro\obj\Debug\irankhodro.csproj.AssemblyReference.cache
+E:\c#learning\irankhodro\obj\Debug\irankhodro.csproj.SuggestedBindingRedirects.cache
+E:\c#learning\irankhodro\obj\Debug\irankhodro.csproj.CoreCompileInputs.cache
+E:\c#learning\irankhodro\obj\Debug\irankhodro.exe
+E:\c#learning\irankhodro\obj\Debug\irankhodro.pdb

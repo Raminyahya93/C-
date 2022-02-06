@@ -1,0 +1,15 @@
+I:\c#learning\youtube\obj\Debug\net6.0\program.csproj.AssemblyReference.cache
+I:\c#learning\youtube\obj\Debug\net6.0\program.GeneratedMSBuildEditorConfig.editorconfig
+I:\c#learning\youtube\obj\Debug\net6.0\program.AssemblyInfoInputs.cache
+I:\c#learning\youtube\obj\Debug\net6.0\program.AssemblyInfo.cs
+I:\c#learning\youtube\obj\Debug\net6.0\program.csproj.CoreCompileInputs.cache
+I:\c#learning\youtube\bin\Debug\net6.0\program.exe
+I:\c#learning\youtube\bin\Debug\net6.0\program.deps.json
+I:\c#learning\youtube\bin\Debug\net6.0\program.runtimeconfig.json
+I:\c#learning\youtube\bin\Debug\net6.0\program.dll
+I:\c#learning\youtube\bin\Debug\net6.0\ref\program.dll
+I:\c#learning\youtube\bin\Debug\net6.0\program.pdb
+I:\c#learning\youtube\obj\Debug\net6.0\program.dll
+I:\c#learning\youtube\obj\Debug\net6.0\ref\program.dll
+I:\c#learning\youtube\obj\Debug\net6.0\program.pdb
+I:\c#learning\youtube\obj\Debug\net6.0\program.genruntimeconfig.cache

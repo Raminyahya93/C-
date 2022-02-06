@@ -1,0 +1,7 @@
+I:\c#learning\tedad adad zoje ya fard ra neshan dahad\obj\Debug\tedad adad zoje ya fard ra neshan dahad.csproj.SuggestedBindingRedirects.cache
+I:\c#learning\tedad adad zoje ya fard ra neshan dahad\obj\Debug\tedad adad zoje ya fard ra neshan dahad.csproj.CoreCompileInputs.cache
+I:\c#learning\tedad adad zoje ya fard ra neshan dahad\bin\Debug\tedad adad zoje ya fard ra neshan dahad.exe.config
+I:\c#learning\tedad adad zoje ya fard ra neshan dahad\bin\Debug\tedad adad zoje ya fard ra neshan dahad.exe
+I:\c#learning\tedad adad zoje ya fard ra neshan dahad\bin\Debug\tedad adad zoje ya fard ra neshan dahad.pdb
+I:\c#learning\tedad adad zoje ya fard ra neshan dahad\obj\Debug\tedad adad zoje ya fard ra neshan dahad.exe
+I:\c#learning\tedad adad zoje ya fard ra neshan dahad\obj\Debug\tedad adad zoje ya fard ra neshan dahad.pdb

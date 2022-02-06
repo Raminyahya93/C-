@@ -1,0 +1,7 @@
+I:\c#learning\adad10-1\bin\Debug\adad10-1.exe.config
+I:\c#learning\adad10-1\bin\Debug\adad10-1.exe
+I:\c#learning\adad10-1\bin\Debug\adad10-1.pdb
+I:\c#learning\adad10-1\obj\Debug\adad10-1.csproj.SuggestedBindingRedirects.cache
+I:\c#learning\adad10-1\obj\Debug\adad10-1.csproj.CoreCompileInputs.cache
+I:\c#learning\adad10-1\obj\Debug\adad10-1.exe
+I:\c#learning\adad10-1\obj\Debug\adad10-1.pdb

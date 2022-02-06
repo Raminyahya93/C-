@@ -1,0 +1,15 @@
+I:\c#learning\1-10 while loop\bin\Debug\1-10 while loop.exe.config
+I:\c#learning\1-10 while loop\bin\Debug\1-10 while loop.exe
+I:\c#learning\1-10 while loop\bin\Debug\1-10 while loop.pdb
+I:\c#learning\1-10 while loop\obj\Debug\1-10 while loop.csproj.SuggestedBindingRedirects.cache
+I:\c#learning\1-10 while loop\obj\Debug\1-10 while loop.csproj.CoreCompileInputs.cache
+I:\c#learning\1-10 while loop\obj\Debug\1-10 while loop.exe
+I:\c#learning\1-10 while loop\obj\Debug\1-10 while loop.pdb
+E:\c#learning\1-10 while loop\bin\Debug\1-10 while loop.exe.config
+E:\c#learning\1-10 while loop\bin\Debug\1-10 while loop.exe
+E:\c#learning\1-10 while loop\bin\Debug\1-10 while loop.pdb
+E:\c#learning\1-10 while loop\obj\Debug\1-10 while loop.csproj.AssemblyReference.cache
+E:\c#learning\1-10 while loop\obj\Debug\1-10 while loop.csproj.SuggestedBindingRedirects.cache
+E:\c#learning\1-10 while loop\obj\Debug\1-10 while loop.csproj.CoreCompileInputs.cache
+E:\c#learning\1-10 while loop\obj\Debug\1-10 while loop.exe
+E:\c#learning\1-10 while loop\obj\Debug\1-10 while loop.pdb

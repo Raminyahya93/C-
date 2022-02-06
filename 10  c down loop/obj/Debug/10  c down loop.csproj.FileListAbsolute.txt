@@ -1,0 +1,7 @@
+I:\c#learning\10  c down loop\bin\Debug\10  c down loop.exe.config
+I:\c#learning\10  c down loop\bin\Debug\10  c down loop.exe
+I:\c#learning\10  c down loop\bin\Debug\10  c down loop.pdb
+I:\c#learning\10  c down loop\obj\Debug\10  c down loop.csproj.SuggestedBindingRedirects.cache
+I:\c#learning\10  c down loop\obj\Debug\10  c down loop.csproj.CoreCompileInputs.cache
+I:\c#learning\10  c down loop\obj\Debug\10  c down loop.exe
+I:\c#learning\10  c down loop\obj\Debug\10  c down loop.pdb

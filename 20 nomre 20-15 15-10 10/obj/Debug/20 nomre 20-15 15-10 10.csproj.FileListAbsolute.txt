@@ -1,0 +1,8 @@
+I:\c#learning\20 nomre 20-15 15-10 10\obj\Debug\20 nomre 20-15 15-10 10.csproj.AssemblyReference.cache
+I:\c#learning\20 nomre 20-15 15-10 10\obj\Debug\20 nomre 20-15 15-10 10.csproj.SuggestedBindingRedirects.cache
+I:\c#learning\20 nomre 20-15 15-10 10\obj\Debug\20 nomre 20-15 15-10 10.csproj.CoreCompileInputs.cache
+I:\c#learning\20 nomre 20-15 15-10 10\bin\Debug\20 nomre 20-15 15-10 10.exe.config
+I:\c#learning\20 nomre 20-15 15-10 10\bin\Debug\20 nomre 20-15 15-10 10.exe
+I:\c#learning\20 nomre 20-15 15-10 10\bin\Debug\20 nomre 20-15 15-10 10.pdb
+I:\c#learning\20 nomre 20-15 15-10 10\obj\Debug\20 nomre 20-15 15-10 10.exe
+I:\c#learning\20 nomre 20-15 15-10 10\obj\Debug\20 nomre 20-15 15-10 10.pdb
