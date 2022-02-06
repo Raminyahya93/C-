@@ -1,0 +1,2 @@
+I:\c#learning\get 10n zoje or fard\obj\Debug\get 10n zoje or fard.csproj.SuggestedBindingRedirects.cache
+I:\c#learning\get 10n zoje or fard\obj\Debug\get 10n zoje or fard.csproj.CoreCompileInputs.cache

@@ -1,0 +1,7 @@
+I:\c#learning\fard 2 raghami kaheshi\bin\Debug\fard 2 raghami kaheshi.exe.config
+I:\c#learning\fard 2 raghami kaheshi\bin\Debug\fard 2 raghami kaheshi.exe
+I:\c#learning\fard 2 raghami kaheshi\bin\Debug\fard 2 raghami kaheshi.pdb
+I:\c#learning\fard 2 raghami kaheshi\obj\Debug\fard 2 raghami kaheshi.csproj.SuggestedBindingRedirects.cache
+I:\c#learning\fard 2 raghami kaheshi\obj\Debug\fard 2 raghami kaheshi.csproj.CoreCompileInputs.cache
+I:\c#learning\fard 2 raghami kaheshi\obj\Debug\fard 2 raghami kaheshi.exe
+I:\c#learning\fard 2 raghami kaheshi\obj\Debug\fard 2 raghami kaheshi.pdb

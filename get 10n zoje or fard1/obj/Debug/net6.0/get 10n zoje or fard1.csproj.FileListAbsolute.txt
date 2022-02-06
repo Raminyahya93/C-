@@ -1,0 +1,15 @@
+I:\c#learning\get 10n zoje or fard1\bin\Debug\net6.0\get 10n zoje or fard1.exe
+I:\c#learning\get 10n zoje or fard1\bin\Debug\net6.0\get 10n zoje or fard1.deps.json
+I:\c#learning\get 10n zoje or fard1\bin\Debug\net6.0\get 10n zoje or fard1.runtimeconfig.json
+I:\c#learning\get 10n zoje or fard1\bin\Debug\net6.0\get 10n zoje or fard1.dll
+I:\c#learning\get 10n zoje or fard1\bin\Debug\net6.0\ref\get 10n zoje or fard1.dll
+I:\c#learning\get 10n zoje or fard1\bin\Debug\net6.0\get 10n zoje or fard1.pdb
+I:\c#learning\get 10n zoje or fard1\obj\Debug\net6.0\get 10n zoje or fard1.csproj.AssemblyReference.cache
+I:\c#learning\get 10n zoje or fard1\obj\Debug\net6.0\get 10n zoje or fard1.GeneratedMSBuildEditorConfig.editorconfig
+I:\c#learning\get 10n zoje or fard1\obj\Debug\net6.0\get 10n zoje or fard1.AssemblyInfoInputs.cache
+I:\c#learning\get 10n zoje or fard1\obj\Debug\net6.0\get 10n zoje or fard1.AssemblyInfo.cs
+I:\c#learning\get 10n zoje or fard1\obj\Debug\net6.0\get 10n zoje or fard1.csproj.CoreCompileInputs.cache
+I:\c#learning\get 10n zoje or fard1\obj\Debug\net6.0\get 10n zoje or fard1.dll
+I:\c#learning\get 10n zoje or fard1\obj\Debug\net6.0\ref\get 10n zoje or fard1.dll
+I:\c#learning\get 10n zoje or fard1\obj\Debug\net6.0\get 10n zoje or fard1.pdb
+I:\c#learning\get 10n zoje or fard1\obj\Debug\net6.0\get 10n zoje or fard1.genruntimeconfig.cache

@@ -1,0 +1,8 @@
+I:\c#learning\radif adad\bin\Debug\radif adad.exe.config
+I:\c#learning\radif adad\bin\Debug\radif adad.exe
+I:\c#learning\radif adad\bin\Debug\radif adad.pdb
+I:\c#learning\radif adad\obj\Debug\radif adad.csproj.AssemblyReference.cache
+I:\c#learning\radif adad\obj\Debug\radif adad.csproj.SuggestedBindingRedirects.cache
+I:\c#learning\radif adad\obj\Debug\radif adad.csproj.CoreCompileInputs.cache
+I:\c#learning\radif adad\obj\Debug\radif adad.exe
+I:\c#learning\radif adad\obj\Debug\radif adad.pdb

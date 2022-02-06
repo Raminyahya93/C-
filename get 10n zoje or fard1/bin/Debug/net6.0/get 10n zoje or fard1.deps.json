@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "get 10n zoje or fard1/1.0.0": {
+        "runtime": {
+          "get 10n zoje or fard1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "get 10n zoje or fard1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,8 @@
+I:\c#learning\majmo va miyangin 10 adad\bin\Debug\majmo va miyangin 10 adad.exe.config
+I:\c#learning\majmo va miyangin 10 adad\bin\Debug\majmo va miyangin 10 adad.exe
+I:\c#learning\majmo va miyangin 10 adad\bin\Debug\majmo va miyangin 10 adad.pdb
+I:\c#learning\majmo va miyangin 10 adad\obj\Debug\majmo va miyangin 10 adad.csproj.AssemblyReference.cache
+I:\c#learning\majmo va miyangin 10 adad\obj\Debug\majmo va miyangin 10 adad.csproj.SuggestedBindingRedirects.cache
+I:\c#learning\majmo va miyangin 10 adad\obj\Debug\majmo va miyangin 10 adad.csproj.CoreCompileInputs.cache
+I:\c#learning\majmo va miyangin 10 adad\obj\Debug\majmo va miyangin 10 adad.exe
+I:\c#learning\majmo va miyangin 10 adad\obj\Debug\majmo va miyangin 10 adad.pdb

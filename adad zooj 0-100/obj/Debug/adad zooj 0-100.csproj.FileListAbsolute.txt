@@ -1,0 +1,8 @@
+I:\c#learning\adad zooj 0-100\bin\Debug\adad zooj 0-100.exe.config
+I:\c#learning\adad zooj 0-100\bin\Debug\adad zooj 0-100.exe
+I:\c#learning\adad zooj 0-100\bin\Debug\adad zooj 0-100.pdb
+I:\c#learning\adad zooj 0-100\obj\Debug\adad zooj 0-100.csproj.AssemblyReference.cache
+I:\c#learning\adad zooj 0-100\obj\Debug\adad zooj 0-100.csproj.SuggestedBindingRedirects.cache
+I:\c#learning\adad zooj 0-100\obj\Debug\adad zooj 0-100.csproj.CoreCompileInputs.cache
+I:\c#learning\adad zooj 0-100\obj\Debug\adad zooj 0-100.exe
+I:\c#learning\adad zooj 0-100\obj\Debug\adad zooj 0-100.pdb

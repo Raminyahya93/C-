@@ -1,0 +1,8 @@
+E:\c#learning\ramin\obj\Debug\ramin.csproj.AssemblyReference.cache
+E:\c#learning\ramin\obj\Debug\ramin.csproj.SuggestedBindingRedirects.cache
+E:\c#learning\ramin\obj\Debug\ramin.csproj.CoreCompileInputs.cache
+E:\c#learning\ramin\bin\Debug\ramin.exe.config
+E:\c#learning\ramin\bin\Debug\ramin.exe
+E:\c#learning\ramin\bin\Debug\ramin.pdb
+E:\c#learning\ramin\obj\Debug\ramin.exe
+E:\c#learning\ramin\obj\Debug\ramin.pdb

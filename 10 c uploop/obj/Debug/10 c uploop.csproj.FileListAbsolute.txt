@@ -1,0 +1,7 @@
+I:\c#learning\10 c uploop\bin\Debug\10 c uploop.exe.config
+I:\c#learning\10 c uploop\bin\Debug\10 c uploop.exe
+I:\c#learning\10 c uploop\bin\Debug\10 c uploop.pdb
+I:\c#learning\10 c uploop\obj\Debug\10 c uploop.csproj.SuggestedBindingRedirects.cache
+I:\c#learning\10 c uploop\obj\Debug\10 c uploop.csproj.CoreCompileInputs.cache
+I:\c#learning\10 c uploop\obj\Debug\10 c uploop.exe
+I:\c#learning\10 c uploop\obj\Debug\10 c uploop.pdb
